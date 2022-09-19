@@ -2,7 +2,7 @@
 1Blocker解锁永久订阅
 ***************************
 [rewrite_local]
-^https:\/\/api\.revenuecat\.com\/v1\/subscribers url script-response-body https://github.com/WTH200/xiong/blob/main/1.js?raw=true
+^https:\/\/api\.revenuecat\.com\/v1\/subscribers url script-response-body https://github.com/WTH200/18/blob/main/QuantumultX/Scripts/1Blocker.js?raw=true
 [mitm] 
 hostname = api.revenuecat.com
 
