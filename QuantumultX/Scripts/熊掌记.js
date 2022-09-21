@@ -1,7 +1,7 @@
 /***
 熊掌记
 [rewrite_local]
-^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/Epoch992/QuantumultX/main/Script/xzj.js
+^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/WTH200/18/main/QuantumultX/Scripts/%E7%86%8A%E6%8E%8C%E8%AE%B0.js
 [mitm] 
 hostname = buy.itunes.apple.com
 ***/
